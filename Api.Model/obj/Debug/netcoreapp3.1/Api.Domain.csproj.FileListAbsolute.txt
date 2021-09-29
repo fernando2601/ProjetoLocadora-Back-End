@@ -1,0 +1,12 @@
+C:\Users\nerif\source\repos\Api.Teste2\Api.Model\bin\Debug\netcoreapp3.1\Api.Domain.deps.json
+C:\Users\nerif\source\repos\Api.Teste2\Api.Model\bin\Debug\netcoreapp3.1\Api.Domain.runtimeconfig.json
+C:\Users\nerif\source\repos\Api.Teste2\Api.Model\bin\Debug\netcoreapp3.1\Api.Domain.runtimeconfig.dev.json
+C:\Users\nerif\source\repos\Api.Teste2\Api.Model\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\nerif\source\repos\Api.Teste2\Api.Model\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\nerif\source\repos\Api.Teste2\Api.Model\obj\Debug\netcoreapp3.1\Api.Domain.csprojAssemblyReference.cache
+C:\Users\nerif\source\repos\Api.Teste2\Api.Model\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfoInputs.cache
+C:\Users\nerif\source\repos\Api.Teste2\Api.Model\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfo.cs
+C:\Users\nerif\source\repos\Api.Teste2\Api.Model\obj\Debug\netcoreapp3.1\Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nerif\source\repos\Api.Teste2\Api.Model\obj\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\nerif\source\repos\Api.Teste2\Api.Model\obj\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\nerif\source\repos\Api.Teste2\Api.Model\obj\Debug\netcoreapp3.1\Api.Domain.genruntimeconfig.cache
